@@ -1,10 +1,8 @@
 # Neurome
 
-**Agentic scientific imaging data analysis — powered by AI.**
+**Agentic scientific imaging data analysis.**
 
-Neurome accepts raw scientific data files, automatically detects the format, reasons about what analyses are appropriate, executes real Python code, returns a structured scientific report, and grounds findings in published literature from PubMed — all in one step.
-
-No pipeline configuration. No manual preprocessing. No algorithm selection. The AI figures it out.
+Neurome accepts raw scientific data files, automatically detects the format, reasons about what analyses are appropriate, executes real Python code, and returns a structured report grounded in published literature from PubMed. All in one step, no configuration needed.
 
 ---
 
